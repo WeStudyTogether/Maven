@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.fhlxc.mvnbook.helloworld.AppTest" time="0.081" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="13"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="E:\maven\helloworld\target\test-classes;E:\maven\helloworld\target\classes;C:\Users\Z1588\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Z1588\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="13"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.boot.library.path" value="D:\java\jdk-13\bin"/>
+    <property name="sun.java.command" value="C:\Users\Z1588\AppData\Local\Temp\surefire14601484375327810437\surefirebooter1266568432938153858.jar C:\Users\Z1588\AppData\Local\Temp\surefire14601484375327810437 2019-12-27T02-44-37_838-jvmRun1 surefire6795535432467294226tmp surefire_03039381651285158910tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="E:\maven\helloworld\target\test-classes;E:\maven\helloworld\target\classes;C:\Users\Z1588\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Z1588\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Z1588"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2019-09-17"/>
+    <property name="java.home" value="D:\java\jdk-13"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="E:\maven\helloworld"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Z1588\AppData\Local\Temp\surefire14601484375327810437\surefirebooter1266568432938153858.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="13-ea+33"/>
+    <property name="user.name" value="Z1588"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Z1588\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Z1588\AppData\Local\Temp\"/>
+    <property name="java.version" value="13-ea"/>
+    <property name="user.dir" value="E:\maven\helloworld"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\java\jdk-13\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\java\jdk-13\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;D:\Git\cmd;D:\Git LFS;D:\java-cup;D:\jflex-1.7.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Z1588\AppData\Local\GitHubDesktop\bin;D:\Microsoft VS Code\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="13-ea+33"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="57.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.fhlxc.mvnbook.helloworld.AppTest" time="0.01"/>
+</testsuite>
