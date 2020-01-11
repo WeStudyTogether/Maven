@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account-persist>
+    <accounts>
+        <account>
+            <id>juven</id>
+            <name>Juven Xu</name>
+            <email>1771583929@qq.com</email>
+            <password>123</password>
+            <activated>true</activated>
+        </account>
+    </accounts>
+</account-persist>
