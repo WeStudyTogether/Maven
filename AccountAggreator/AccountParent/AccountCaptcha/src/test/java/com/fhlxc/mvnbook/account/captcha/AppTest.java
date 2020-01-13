@@ -1,4 +1,4 @@
-package com.fhlxc.mvnbook.account.parent;
+package com.fhlxc.mvnbook.account.captcha;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
